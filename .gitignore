@@ -1,0 +1,25 @@
+# Hugo build output
+/resources/_gen/
+/assets/js/plugins.js
+/assets/js/vendor/
+
+# Hugo modules
+.hugo_build.lock
+
+# Node modules (if you use npm/yarn for extra tooling)
+node_modules/
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+*.bak
+*.tmp
+
+# VSCode
+.vscode/
+hugo_stats.json
