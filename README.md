@@ -1,3 +1,16 @@
+# Compilation
+```
+hugo --minify -d docs
+```
+# Test locally
+```
+hugo server  
+```
+# Initial setup
+Not sure but
+```
+hugo mod get   
+```
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
