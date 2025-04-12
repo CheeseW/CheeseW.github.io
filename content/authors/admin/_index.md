@@ -45,14 +45,18 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Simulation
-  - Computer Graphics
-  - Numeric Solver
+- Physically based simulation
+- soft-body dynamics 
+- facial animation
+- computer graphics
+- GPU acceleration
+- surgical simulation
+- data-driven physics models
 
 education:
   - area: PhD Computer Science
     institution: University of Wisconsin Madison
-    date_start: 2016-01-01
+    date_start: 2015-08-22
     date_end: ''
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -62,7 +66,7 @@ education:
   - area: BS Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2011-08-15
-    date_end: 2015-05-04
+    date_end: 2015-05-02
     
   # - area: BSc Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
@@ -77,27 +81,25 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Engineer
-    company_name: GenCoin
+    company_name: FoundationLLm, Inc
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Research Engineer
-    company_name: Tecent
+      - Designed and developed geometric features extraction algorithms mechanical assemblies
+      - Develop simulation algorithms for assembly sequence generation
+  - position: Engine Programmer Intern
+    company_name: Lightspeed & Quantum Studio, Tencent America 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-14
+    date_end: 2022-01-13
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Prototyped a real-time fluid simulation backend in C++ (400x400 resolution).
+      - Authored internal wiki documentation; presented in weekly reading groups on simulation research.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,7 +141,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: Japanese
-    percent: 25
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
