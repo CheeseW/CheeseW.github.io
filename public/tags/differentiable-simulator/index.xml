@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Differentiable Simulator | Qisi Wang</title>
+    <link>http://localhost:1313/tags/differentiable-simulator/</link>
+      <atom:link href="http://localhost:1313/tags/differentiable-simulator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Differentiable Simulator</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Differentiable Simulator</title>
+      <link>http://localhost:1313/tags/differentiable-simulator/</link>
+    </image>
+    
+    <item>
+      <title>Learning active quasistatic physics-based models from data</title>
+      <link>http://localhost:1313/publication/sig/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sig/</guid>
+      <description>&lt;p&gt;Humans and animals can control their bodies to generate a wide range of motions via low-dimensional action signals representing high-level goals. As such, human bodies and faces are prime examples of active objects, which can affect their shape via an internal actuation mechanism. This paper explores the following proposition: given a training set of example poses of an active deformable object, can we learn a low-dimensional control space that could reproduce the training set and generalize to new poses?&lt;/p&gt;
+&lt;p&gt;In contrast to popular machine learning methods for dimensionality reduction such as auto-encoders, we model our active objects in a physics-based way. We utilize a differentiable, quasistatic, physics-based simulation layer and combine it with a decoder-type neural network. Our differentiable physics layer naturally fits into deep learning frameworks and allows the decoder network to learn actuations that reach the desired poses after physics-based simulation. In contrast to modeling approaches where users build anatomical models from first principles, medical literature or medical imaging, we do not presume knowledge of the underlying musculature, but learn the structure and control of the actuation mechanism directly from the input data.&lt;/p&gt;
+&lt;p&gt;We present a training paradigm and several scalability-oriented enhancements that allow us to train effectively while accommodating high-resolution volumetric models, with as many as a quarter million simulation elements. The prime demonstration of the efficacy of our example-driven modeling framework targets facial animation, where we train on a collection of input expressions while generalizing to unseen poses, drive detailed facial animation from sparse motion capture input, and facilitate expression sculpting via direct manipulation.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/SIG1.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/SIG1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/SIG2.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/SIG2.m4v&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

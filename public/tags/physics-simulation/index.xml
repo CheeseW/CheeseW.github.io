@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics Simulation | Qisi Wang</title>
+    <link>http://localhost:1313/tags/physics-simulation/</link>
+      <atom:link href="http://localhost:1313/tags/physics-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics Simulation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Physics Simulation</title>
+      <link>http://localhost:1313/tags/physics-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Long-Term Results of the Murawski Unilateral Cleft Lip Repair</title>
+      <link>http://localhost:1313/publication/prs/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prs/</guid>
+      <description>&lt;h4 id=&#34;background&#34;&gt;Background:&lt;/h4&gt;
+&lt;p&gt;In 1968, Ralph Millard published his “Millard II” method for repair of wide, complete unilateral cleft lip and nose deformity. In 1979, Murawski published a major modification of the Millard II procedure in Polish. This motif was taken up 8 years later by Mohler and 22 years later by Cutting. The Murawski variation on the Millard II procedure has become a dominant motif in unilateral cleft lip repair worldwide. This brief report intends to introduce the method to the English language literature and present long-term results.&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods:&lt;/h4&gt;
+&lt;p&gt;The Murawski method alters the Millard II procedure by changing the upper medial curve into a point in the columellar base. This creates a broad C flap used to fill the entire defect produced by downward rotation of the medial lip. Millard’s lateral advancement flap becomes unnecessary. A lateral approach to primary nasal reconstruction allows the lateral C flap to be used to construct the nasal floor and sill. The method is described using a physics-based surgical simulator.&lt;/p&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results:&lt;/h4&gt;
+&lt;p&gt;Long-term results of the method are demonstrated with four patients with 15 to 25-year follow-up. None of these patients had any revisions to the lip or nose.&lt;/p&gt;
+&lt;h4 id=&#34;conclusions&#34;&gt;Conclusions:&lt;/h4&gt;
+&lt;p&gt;The Murawski repair was the first to modify the Millard II repair by sharpening the medial columellar incision, eliminating the need for a lateral advancement flap. This motif was put forth in the years to follow by Mohler and Cutting. Long-term results of the method are presented.Humans and animals can control their bodies to generate a wide range of motions via low-dimensional action signals representing high-level goals. As such, human bodies and faces are prime examples of active objects, which can affect their shape via an internal actuation mechanism. This paper explores the following proposition: given a training set of example poses of an active deformable object, can we learn a low-dimensional control space that could reproduce the training set and generalize to new poses? In contrast to popular machine learning methods for dimensionality reduction such as auto-encoders, we model our active objects in a physics-based way. We utilize a differentiable, quasistatic, physics-based simulation layer and combine it with a decoder-type neural network. Our differentiable physics layer naturally fits into deep learning frameworks and allows the decoder network to learn actuations that reach the desired poses after physics-based simulation. In contrast to modeling approaches where users build anatomical models from first principles, medical literature or medical imaging, we do not presume knowledge of the underlying musculature, but learn the structure and control of the actuation mechanism directly from the input data. We present a training paradigm and several scalability-oriented enhancements that allow us to train effectively while accommodating high-resolution volumetric models, with as many as a quarter million simulation elements. The prime demonstration of the efficacy of our example-driven modeling framework targets facial animation, where we train on a collection of input expressions while generalizing to unseen poses, drive detailed facial animation from sparse motion capture input, and facilitate expression sculpting via direct manipulation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

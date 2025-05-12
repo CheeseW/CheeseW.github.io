@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Qisi Wang</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Article-Journal</title>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Computer Based Simulation of Facial Flap and Cleft Lip Reconstruction Using Multiresolution Physics</title>
+      <link>http://localhost:1313/publication/prs2/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prs2/</guid>
+      <description>&lt;p&gt;Computer-based simulation of complex local flap reconstructions of the face requires very high density finite elements to render accurately due to the intricate incision designs frequently used.  This is particularly true in detailed cleft lip/nose repairs.  If the entire anatomic model is embedded in a high resolution solid lattice, the element count becomes so high that simulator performance is very slow, even on a high performance workstation.&lt;/p&gt;
+&lt;p&gt;This paper introduces a simulator in which the model is initially presented at a low, but acceptable physics resolution.  As the surgeon operates on the model, only the areas impacted are recut at very high resolution.  This surgical subvolume is then merged back into the rest of the model.  The dramatic reduction in finite element count results in a surgical simulation program that is quite fast, even on a modest personal computer.  This paper presents examples of this simulator used in a variety of facial flap and cleft lip reconstructions.  Future uses in plastic surgery for patient specific simulation, education, and illustration are discussed.  The simulator is available as free, open-source software.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34; &gt;
+  &lt;source src=&#34;http://localhost:1313/video/PRS2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+    </item>
+    
+    <item>
+      <title>A computer based facial flaps simulator using projective dynamics</title>
+      <link>http://localhost:1313/publication/cmbp/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cmbp/</guid>
+      <description>&lt;h4 id=&#34;background-and-objectives&#34;&gt;Background and Objectives&lt;/h4&gt;
+&lt;p&gt;Interactive surgical simulation using the finite element method to model human skin mechanics has been an elusive goal. Mass-spring networks, while fast, do not provide the required accuracy.&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
+&lt;p&gt;This paper presents an interactive, cognitive, facial flaps simulator based on a projective dynamics computational framework. Projective dynamics is able to generate rapid, stable results following changes to the facial soft tissues created by the surgeon, even in the face of sudden increases in skin resistance as its stretch limit is reached or collision between tissues occurs. Our prior work with the finite element method had been hampered by these considerations. Surgical tools are provided for; skin incision, undermining, deep tissue cutting, and excision. A spring-like “skin hook” is used for retraction. Spring-based sutures can be placed individually or automatically placed as a row between cardinal sutures.&lt;/p&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
+&lt;p&gt;Examples of an Abbe/Estlander lip reconstruction, a paramedian forehead flap to the nose, a retroauricular flap reconstruction of the external ear, and a cervico-facial flap reconstruction of a cheek defect are presented.&lt;/p&gt;
+&lt;h4 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h4&gt;
+&lt;p&gt;Projective dynamics has significant advantages over mass-spring and finite element methods as the physics backbone for interactive soft tissue surgical simulation.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/CMBP.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+    </item>
+    
+    <item>
+      <title>Long-Term Results of the Murawski Unilateral Cleft Lip Repair</title>
+      <link>http://localhost:1313/publication/prs/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prs/</guid>
+      <description>&lt;h4 id=&#34;background&#34;&gt;Background:&lt;/h4&gt;
+&lt;p&gt;In 1968, Ralph Millard published his “Millard II” method for repair of wide, complete unilateral cleft lip and nose deformity. In 1979, Murawski published a major modification of the Millard II procedure in Polish. This motif was taken up 8 years later by Mohler and 22 years later by Cutting. The Murawski variation on the Millard II procedure has become a dominant motif in unilateral cleft lip repair worldwide. This brief report intends to introduce the method to the English language literature and present long-term results.&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods:&lt;/h4&gt;
+&lt;p&gt;The Murawski method alters the Millard II procedure by changing the upper medial curve into a point in the columellar base. This creates a broad C flap used to fill the entire defect produced by downward rotation of the medial lip. Millard’s lateral advancement flap becomes unnecessary. A lateral approach to primary nasal reconstruction allows the lateral C flap to be used to construct the nasal floor and sill. The method is described using a physics-based surgical simulator.&lt;/p&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results:&lt;/h4&gt;
+&lt;p&gt;Long-term results of the method are demonstrated with four patients with 15 to 25-year follow-up. None of these patients had any revisions to the lip or nose.&lt;/p&gt;
+&lt;h4 id=&#34;conclusions&#34;&gt;Conclusions:&lt;/h4&gt;
+&lt;p&gt;The Murawski repair was the first to modify the Millard II repair by sharpening the medial columellar incision, eliminating the need for a lateral advancement flap. This motif was put forth in the years to follow by Mohler and Cutting. Long-term results of the method are presented.Humans and animals can control their bodies to generate a wide range of motions via low-dimensional action signals representing high-level goals. As such, human bodies and faces are prime examples of active objects, which can affect their shape via an internal actuation mechanism. This paper explores the following proposition: given a training set of example poses of an active deformable object, can we learn a low-dimensional control space that could reproduce the training set and generalize to new poses? In contrast to popular machine learning methods for dimensionality reduction such as auto-encoders, we model our active objects in a physics-based way. We utilize a differentiable, quasistatic, physics-based simulation layer and combine it with a decoder-type neural network. Our differentiable physics layer naturally fits into deep learning frameworks and allows the decoder network to learn actuations that reach the desired poses after physics-based simulation. In contrast to modeling approaches where users build anatomical models from first principles, medical literature or medical imaging, we do not presume knowledge of the underlying musculature, but learn the structure and control of the actuation mechanism directly from the input data. We present a training paradigm and several scalability-oriented enhancements that allow us to train effectively while accommodating high-resolution volumetric models, with as many as a quarter million simulation elements. The prime demonstration of the efficacy of our example-driven modeling framework targets facial animation, where we train on a collection of input expressions while generalizing to unseen poses, drive detailed facial animation from sparse motion capture input, and facilitate expression sculpting via direct manipulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimized Processing of Localized Collisions in Projective Dynamics</title>
+      <link>http://localhost:1313/publication/cgf/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cgf/</guid>
+      <description>&lt;p&gt;We present a method for the efficient processing of contact and collision in volumetric elastic models simulated using the Projective Dynamics paradigm. Our approach enables interactive simulation of tetrahedral meshes with more than half a million elements, provided that the model satisfies two fundamental properties: the region of the model&amp;rsquo;s surface that is susceptible to collision events needs to be known in advance, and the simulation degrees of freedom associated with that surface region should be limited to a small fraction (e.g. 5%) of the total simulation nodes. In such scenarios, a partial Cholesky factorization can abstract away the behaviour of the collision-safe subset of the face model into the Schur Complement matrix with respect to the collision-prone region.&lt;/p&gt;
+&lt;p&gt;We demonstrate how fast and accurate updates of bilateral penalty-based collision terms can be incorporated into this representation, and solved with high efficiency on the GPU. We also demonstrate iterating a partial update of the element rotations, akin to a selective application of the local step, specifically on the smaller collision-prone region without explicitly paying the cost associated with the rest of the simulation mesh. We demonstrate efficient and robust interactive simulation in detailed models from animation and medical applications.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/CGF1.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/CGF1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/CGF2.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/CGF2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning active quasistatic physics-based models from data</title>
+      <link>http://localhost:1313/publication/sig/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sig/</guid>
+      <description>&lt;p&gt;Humans and animals can control their bodies to generate a wide range of motions via low-dimensional action signals representing high-level goals. As such, human bodies and faces are prime examples of active objects, which can affect their shape via an internal actuation mechanism. This paper explores the following proposition: given a training set of example poses of an active deformable object, can we learn a low-dimensional control space that could reproduce the training set and generalize to new poses?&lt;/p&gt;
+&lt;p&gt;In contrast to popular machine learning methods for dimensionality reduction such as auto-encoders, we model our active objects in a physics-based way. We utilize a differentiable, quasistatic, physics-based simulation layer and combine it with a decoder-type neural network. Our differentiable physics layer naturally fits into deep learning frameworks and allows the decoder network to learn actuations that reach the desired poses after physics-based simulation. In contrast to modeling approaches where users build anatomical models from first principles, medical literature or medical imaging, we do not presume knowledge of the underlying musculature, but learn the structure and control of the actuation mechanism directly from the input data.&lt;/p&gt;
+&lt;p&gt;We present a training paradigm and several scalability-oriented enhancements that allow us to train effectively while accommodating high-resolution volumetric models, with as many as a quarter million simulation elements. The prime demonstration of the efficacy of our example-driven modeling framework targets facial animation, where we train on a collection of input expressions while generalizing to unseen poses, drive detailed facial animation from sparse motion capture input, and facilitate expression sculpting via direct manipulation.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/SIG1.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/SIG1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;video controls width=&#34;100%&#34; poster=&#34;/video/SIG2.png&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/video/SIG2.m4v&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
